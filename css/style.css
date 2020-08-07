@@ -918,6 +918,8 @@ section#gallery {
 .gal-img img {
     padding: 6px;
     background: #f0f0f1;
+    width: 600px;
+    height: 400px;
 }
 
 .gal-info {
@@ -964,7 +966,10 @@ span.decription {
 }
 
 /*-- popup --*/
-
+.popup img{
+    width: 600px;
+    height: 400px;
+}
 .pop-overlay {
     position: fixed;
     top: 0px;
